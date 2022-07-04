@@ -1,5 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HYUN-JIN%20KIM&fontSize=90)
+
 <p align="center">"nang-man"</p>
 <p align="center">👨‍🎓 Student from South Korea 👨‍🎓</p>
 <h3 align="center">Learning..</h3>
@@ -20,8 +21,6 @@
 </p>
 </p>
 
-[![Solved.ac 
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladhkdwls520)](https://solved.ac/rladhkdwls520)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladhkdwls520)](https://solved.ac/rladhkdwls520/)
 
 
