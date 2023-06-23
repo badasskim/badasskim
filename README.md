@@ -6,13 +6,10 @@
 <h3 align="center">✔ Learning.. ✔</h3>
 <p align = "center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Nest.js-3766AB?style=flat-square&logo=Nestjs&logoColor=red"/></a>&nbsp
 <img src="https://img.shields.io/badge/C-00333b?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
 </p>
-
 <br>
 <h3 align="center"> 🐶 Me 🐶 </h3>
   <p align="center">
