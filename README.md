@@ -5,9 +5,7 @@
 <br>
 <h3 align="center">✔ Learning.. ✔</h3>
 <p align = "center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Nest.js-3766AB?style=flat-square&logo=Nestjs&logoColor=red"/></a>&nbsp
-<img src="https://img.shields.io/badge/C-00333b?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Nest.js-3766AB?style=flat-square&logo=Nestjs&logoColor=red"/></a>&nbsp
 <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
 </p>
 <br>
