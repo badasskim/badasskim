@@ -1,6 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hello%20:>&fontSize=50)
-<img width="900" height="300" src="https://private-user-images.githubusercontent.com/98962864/371040808-85fd5da2-e37d-47fe-9ec9-4391f2930591.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczMzc4NTksIm5iZiI6MTcyNzMzNzU1OSwicGF0aCI6Ii85ODk2Mjg2NC8zNzEwNDA4MDgtODVmZDVkYTItZTM3ZC00N2ZlLTllYzktNDM5MWYyOTMwNTkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDA3NTkxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4OWEzMjAwMTkyNDA2ZjQzYjRhZDlhODA5NTRhNjQ1ZWE3ZGNlOWJlMDMxYTQ1NmI2OWY5NGE4YTA4MDY1NmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rIICo-8rMhlQ1H_GcdfhXIdbzdbrdxyp-4yVmIGEk20"/>
+
+<img src="https://github.com/user-attachments/assets/85fd5da2-e37d-47fe-9ec9-4391f2930591" alt="image" width="900" height="300">
 
 <p align="center">👨‍🎓 learning from South Korea 👨‍🎓</p>
 
